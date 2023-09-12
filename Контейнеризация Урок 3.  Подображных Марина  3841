@@ -1,1 +1,2 @@
-
+Docker уже установлен, запускаем контейнер, тестируем работу docker.
+- docker run docker/whalesay cowsay Hello, Docker!
