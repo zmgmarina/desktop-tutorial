@@ -7,10 +7,8 @@ public class HW_2 {
     }
 
     public static void multiplicationTable(int n){
-        int result = 0;
         for (int i = 1; i < 10; i++) {
-            result = n * i;
-            System.out.println(n + " * " + i + " = " + result);
+            System.out.println(n + " * " + i + " = " + (n*i));
         }
     }
 }
